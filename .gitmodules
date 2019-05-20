@@ -1,0 +1,6 @@
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/LubinKerhuel/hugo.git
+[submodule "MCC"]
+	path = MCC
+	url = https://github.com/LubinKerhuel/INSA_TP_CommandeTempsReel_MCC.git
